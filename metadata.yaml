@@ -1,10 +1,16 @@
 _repo: Boy-Scouts-on-the-Trail_48947
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48947-h/images/cover.jpg
 creator:
   author:
     agent_name: Garth, John
     gutenberg_agent_id: '45054'
     url: http://www.gutenberg.org/2009/agents/45054
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48947#Boy-Scouts-on-the-Trail
 gutenberg_issued: '2015-05-12'
 gutenberg_type: Text
 identifiers:
